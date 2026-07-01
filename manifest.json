@@ -1,0 +1,16 @@
+{
+  "name": "番茄鐘 · 巴西龜版",
+  "short_name": "番茄鐘",
+  "description": "25/5 分鐘番茄鐘計時器,附巴西龜插畫",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3ead9",
+  "theme_color": "#5f9fa6",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
